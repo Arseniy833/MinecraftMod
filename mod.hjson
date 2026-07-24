@@ -1,10 +1,8 @@
-name: "mgd"
-displayName: "MINIGUNDUSTRY"
-"author": "[red]a[blue]l[white]ex"
-description: "this mod sended to heaven;)"
+name: "craft"
+displayName: "MINECRAFT"
+"author": "steve2.0"
+description: "minecraft"
 version: "1.0"
-minGameVersion: "136"
+minGameVersion: "157"
 dependencies: []
-hidden: true
-hideBrowser: true
  
