@@ -1,0 +1,7 @@
+type: Wall
+name: Незаритовый блок
+size: 1
+health: 25000
+requirements: [
+neth/9
+]
