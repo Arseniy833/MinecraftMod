@@ -5,4 +5,4 @@ description: "minecraft"
 version: "1.0"
 minGameVersion: "157"
 dependencies: []
- 
+repo: "Arseniy833/MinecraftMod"
